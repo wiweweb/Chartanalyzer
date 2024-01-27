@@ -302,3 +302,4 @@ def load_stocks():
     # print(stocks)
     return stocks
     
+print("hallo World")
