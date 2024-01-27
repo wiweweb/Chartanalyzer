@@ -301,5 +301,3 @@ def load_stocks():
                 stocks = pickle.load(f) 
     # print(stocks)
     return stocks
-    
-print("hallo World")
